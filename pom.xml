@@ -11,7 +11,7 @@
     <!-- 依赖包版本信息 -->
     <properties>
         <jdk.version>1.8</jdk.version>
-        <spring.version>4.2.5.RELEASE</spring.version>
+        <spring.version>5.2.7.RELEASE</spring.version>
         <netty.version>4.1.9.Final</netty.version>
         <kafka.version>2.4.1</kafka.version>
         <redis.version>3.3.0</redis.version>

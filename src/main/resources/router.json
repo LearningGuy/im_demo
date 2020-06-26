@@ -1,0 +1,11 @@
+[
+  {
+    "prefix": "/",
+    "classname": "xyz.zhanglei.im.service.UserService",
+    "methods": [
+      {"url": "xxx", "methodName": ""},
+      {"url": "xxx", "methodName": ""}
+    ]
+  }
+
+]
